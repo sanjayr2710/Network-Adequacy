@@ -1,0 +1,9 @@
+{
+  "browser": "chrome",
+  "headless_mode": false,
+  "timeout": 10,
+  "client": "NA",
+  "NAURL": "https://mcheck.elixruat.awsdns.internal.das/auth/login",
+  "NA_USERNAME": "AL87719",
+  "NA_PASSWORD": "Molina@123456"
+}

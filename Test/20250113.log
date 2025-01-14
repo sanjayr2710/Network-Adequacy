@@ -1,0 +1,408 @@
+2025-01-13 08:02:52,550: INFO: Navigating to https://mcheck.elixruat.awsdns.internal.das/
+2025-01-13 08:02:57,940: INFO: https://mcheck.elixruat.awsdns.internal.das/ opened
+2025-01-13 08:02:57,941: INFO: Navigating to https://mcheck.elixruat.awsdns.internal.das/
+2025-01-13 08:02:58,172: INFO: https://mcheck.elixruat.awsdns.internal.das/ opened
+2025-01-13 08:02:58,173: INFO: Searching for element by xpath ('xpath', "//img[@src='/elixir/logo.svg']")
+2025-01-13 08:02:58,185: INFO: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D2526CF5+28821]
+	(No symbol) [0x00007FF7D2493880]
+	(No symbol) [0x00007FF7D233578A]
+	(No symbol) [0x00007FF7D2388F75]
+	(No symbol) [0x00007FF7D23894AC]
+	(No symbol) [0x00007FF7D23D2647]
+	(No symbol) [0x00007FF7D23AF33F]
+	(No symbol) [0x00007FF7D23CF412]
+	(No symbol) [0x00007FF7D23AF0A3]
+	(No symbol) [0x00007FF7D237A778]
+	(No symbol) [0x00007FF7D237B8E1]
+	GetHandleVerifier [0x00007FF7D285FCED+3408013]
+	GetHandleVerifier [0x00007FF7D287745F+3504127]
+	GetHandleVerifier [0x00007FF7D286B63D+3455453]
+	GetHandleVerifier [0x00007FF7D25EBDFB+835995]
+	(No symbol) [0x00007FF7D249EB9F]
+	(No symbol) [0x00007FF7D249A854]
+	(No symbol) [0x00007FF7D249A9ED]
+	(No symbol) [0x00007FF7D248A1D9]
+	BaseThreadInitThunk [0x00007FFC2184259D+29]
+	RtlUserThreadStart [0x00007FFC219AAF38+40]
+
+2025-01-13 08:02:58,186: INFO: Searching for element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki']
+2025-01-13 08:02:58,730: INFO: Element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki'] found
+2025-01-13 08:02:59,215: INFO: Clicking on MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki
+2025-01-13 08:02:59,490: INFO: MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki clicked
+2025-01-13 08:02:59,491: INFO: Searching for element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki']
+2025-01-13 08:02:59,546: INFO: Element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki'] found
+2025-01-13 08:02:59,555: INFO: None value changed
+2025-01-13 08:02:59,749: INFO: Searching for element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if']
+2025-01-13 08:02:59,767: INFO: Element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if'] found
+2025-01-13 08:02:59,780: INFO: Clicking on MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if
+2025-01-13 08:02:59,877: INFO: MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if clicked
+2025-01-13 08:02:59,877: INFO: Searching for element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if']
+2025-01-13 08:02:59,886: INFO: Element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if'] found
+2025-01-13 08:02:59,892: INFO: None value changed
+2025-01-13 08:03:05,089: INFO: Searching for element by xpath //button[@class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-1duqoz2']
+2025-01-13 08:03:05,111: INFO: Element by xpath //button[@class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-1duqoz2'] found
+2025-01-13 08:03:05,132: INFO: Clicking on MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-1duqoz2
+2025-01-13 08:03:05,238: INFO: MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-1duqoz2 clicked
+2025-01-13 08:03:10,244: INFO: Searching for element by xpath //h6[@class='MuiTypography-root MuiTypography-h6 css-1dpu6tj']
+2025-01-13 08:03:30,451: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h6[@class='MuiTypography-root MuiTypography-h6 css-1dpu6tj']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D2526CF5+28821]
+	(No symbol) [0x00007FF7D2493880]
+	(No symbol) [0x00007FF7D233578A]
+	(No symbol) [0x00007FF7D23891BE]
+	(No symbol) [0x00007FF7D23894AC]
+	(No symbol) [0x00007FF7D23D2647]
+	(No symbol) [0x00007FF7D23AF33F]
+	(No symbol) [0x00007FF7D23CF412]
+	(No symbol) [0x00007FF7D23AF0A3]
+	(No symbol) [0x00007FF7D237A778]
+	(No symbol) [0x00007FF7D237B8E1]
+	GetHandleVerifier [0x00007FF7D285FCED+3408013]
+	GetHandleVerifier [0x00007FF7D287745F+3504127]
+	GetHandleVerifier [0x00007FF7D286B63D+3455453]
+	GetHandleVerifier [0x00007FF7D25EBDFB+835995]
+	(No symbol) [0x00007FF7D249EB9F]
+	(No symbol) [0x00007FF7D249A854]
+	(No symbol) [0x00007FF7D249A9ED]
+	(No symbol) [0x00007FF7D248A1D9]
+	BaseThreadInitThunk [0x00007FFC2184259D+29]
+	RtlUserThreadStart [0x00007FFC219AAF38+40]
+
+2025-01-13 08:03:41,088: INFO: Searching for element by xpath //div[@title='Network Adequacy']
+2025-01-13 08:04:04,876: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@title='Network Adequacy']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D2526CF5+28821]
+	(No symbol) [0x00007FF7D2493880]
+	(No symbol) [0x00007FF7D233578A]
+	(No symbol) [0x00007FF7D23891BE]
+	(No symbol) [0x00007FF7D23894AC]
+	(No symbol) [0x00007FF7D23D2647]
+	(No symbol) [0x00007FF7D23AF33F]
+	(No symbol) [0x00007FF7D23CF412]
+	(No symbol) [0x00007FF7D23AF0A3]
+	(No symbol) [0x00007FF7D237A778]
+	(No symbol) [0x00007FF7D237B8E1]
+	GetHandleVerifier [0x00007FF7D285FCED+3408013]
+	GetHandleVerifier [0x00007FF7D287745F+3504127]
+	GetHandleVerifier [0x00007FF7D286B63D+3455453]
+	GetHandleVerifier [0x00007FF7D25EBDFB+835995]
+	(No symbol) [0x00007FF7D249EB9F]
+	(No symbol) [0x00007FF7D249A854]
+	(No symbol) [0x00007FF7D249A9ED]
+	(No symbol) [0x00007FF7D248A1D9]
+	BaseThreadInitThunk [0x00007FFC2184259D+29]
+	RtlUserThreadStart [0x00007FFC219AAF38+40]
+
+2025-01-13 08:04:13,477: INFO: Driver quitting
+2025-01-13 08:04:43,177: INFO: Driver quitted
+2025-01-13 08:05:46,481: INFO: Navigating to https://mcheck.elixruat.awsdns.internal.das/
+2025-01-13 08:05:50,882: INFO: https://mcheck.elixruat.awsdns.internal.das/ opened
+2025-01-13 08:05:50,882: INFO: Navigating to https://mcheck.elixruat.awsdns.internal.das/
+2025-01-13 08:05:51,168: INFO: https://mcheck.elixruat.awsdns.internal.das/ opened
+2025-01-13 08:05:51,169: INFO: Searching for element by xpath ('xpath', "//img[@src='/elixir/logo.svg']")
+2025-01-13 08:05:51,184: INFO: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D2526CF5+28821]
+	(No symbol) [0x00007FF7D2493880]
+	(No symbol) [0x00007FF7D233578A]
+	(No symbol) [0x00007FF7D2388F75]
+	(No symbol) [0x00007FF7D23894AC]
+	(No symbol) [0x00007FF7D23D2647]
+	(No symbol) [0x00007FF7D23AF33F]
+	(No symbol) [0x00007FF7D23CF412]
+	(No symbol) [0x00007FF7D23AF0A3]
+	(No symbol) [0x00007FF7D237A778]
+	(No symbol) [0x00007FF7D237B8E1]
+	GetHandleVerifier [0x00007FF7D285FCED+3408013]
+	GetHandleVerifier [0x00007FF7D287745F+3504127]
+	GetHandleVerifier [0x00007FF7D286B63D+3455453]
+	GetHandleVerifier [0x00007FF7D25EBDFB+835995]
+	(No symbol) [0x00007FF7D249EB9F]
+	(No symbol) [0x00007FF7D249A854]
+	(No symbol) [0x00007FF7D249A9ED]
+	(No symbol) [0x00007FF7D248A1D9]
+	BaseThreadInitThunk [0x00007FFC2184259D+29]
+	RtlUserThreadStart [0x00007FFC219AAF38+40]
+
+2025-01-13 08:05:51,185: INFO: Searching for element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki']
+2025-01-13 08:05:51,778: INFO: Element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki'] found
+2025-01-13 08:05:51,840: INFO: Clicking on MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki
+2025-01-13 08:05:52,053: INFO: MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki clicked
+2025-01-13 08:05:52,054: INFO: Searching for element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki']
+2025-01-13 08:05:52,068: INFO: Element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki'] found
+2025-01-13 08:05:52,080: INFO: None value changed
+2025-01-13 08:05:52,312: INFO: Searching for element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if']
+2025-01-13 08:05:52,325: INFO: Element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if'] found
+2025-01-13 08:05:52,345: INFO: Clicking on MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if
+2025-01-13 08:05:52,491: INFO: MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if clicked
+2025-01-13 08:05:52,491: INFO: Searching for element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if']
+2025-01-13 08:05:52,507: INFO: Element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if'] found
+2025-01-13 08:05:52,527: INFO: None value changed
+2025-01-13 08:05:57,885: INFO: Searching for element by xpath //button[@class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-1duqoz2']
+2025-01-13 08:05:57,902: INFO: Element by xpath //button[@class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-1duqoz2'] found
+2025-01-13 08:05:57,919: INFO: Clicking on MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-1duqoz2
+2025-01-13 08:05:58,276: INFO: MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-1duqoz2 clicked
+2025-01-13 08:06:03,281: INFO: Searching for element by xpath //h6[@class='MuiTypography-root MuiTypography-h6 css-1dpu6tj']
+2025-01-13 08:06:23,356: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h6[@class='MuiTypography-root MuiTypography-h6 css-1dpu6tj']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D2526CF5+28821]
+	(No symbol) [0x00007FF7D2493880]
+	(No symbol) [0x00007FF7D233578A]
+	(No symbol) [0x00007FF7D23891BE]
+	(No symbol) [0x00007FF7D23894AC]
+	(No symbol) [0x00007FF7D23D2647]
+	(No symbol) [0x00007FF7D23AF33F]
+	(No symbol) [0x00007FF7D23CF412]
+	(No symbol) [0x00007FF7D23AF0A3]
+	(No symbol) [0x00007FF7D237A778]
+	(No symbol) [0x00007FF7D237B8E1]
+	GetHandleVerifier [0x00007FF7D285FCED+3408013]
+	GetHandleVerifier [0x00007FF7D287745F+3504127]
+	GetHandleVerifier [0x00007FF7D286B63D+3455453]
+	GetHandleVerifier [0x00007FF7D25EBDFB+835995]
+	(No symbol) [0x00007FF7D249EB9F]
+	(No symbol) [0x00007FF7D249A854]
+	(No symbol) [0x00007FF7D249A9ED]
+	(No symbol) [0x00007FF7D248A1D9]
+	BaseThreadInitThunk [0x00007FFC2184259D+29]
+	RtlUserThreadStart [0x00007FFC219AAF38+40]
+
+2025-01-13 08:06:33,878: INFO: Searching for element by xpath //div[@title='Network Adequacy']
+2025-01-13 08:06:53,932: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@title='Network Adequacy']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D2526CF5+28821]
+	(No symbol) [0x00007FF7D2493880]
+	(No symbol) [0x00007FF7D233578A]
+	(No symbol) [0x00007FF7D23891BE]
+	(No symbol) [0x00007FF7D23894AC]
+	(No symbol) [0x00007FF7D23D2647]
+	(No symbol) [0x00007FF7D23AF33F]
+	(No symbol) [0x00007FF7D23CF412]
+	(No symbol) [0x00007FF7D23AF0A3]
+	(No symbol) [0x00007FF7D237A778]
+	(No symbol) [0x00007FF7D237B8E1]
+	GetHandleVerifier [0x00007FF7D285FCED+3408013]
+	GetHandleVerifier [0x00007FF7D287745F+3504127]
+	GetHandleVerifier [0x00007FF7D286B63D+3455453]
+	GetHandleVerifier [0x00007FF7D25EBDFB+835995]
+	(No symbol) [0x00007FF7D249EB9F]
+	(No symbol) [0x00007FF7D249A854]
+	(No symbol) [0x00007FF7D249A9ED]
+	(No symbol) [0x00007FF7D248A1D9]
+	BaseThreadInitThunk [0x00007FFC2184259D+29]
+	RtlUserThreadStart [0x00007FFC219AAF38+40]
+
+2025-01-13 08:06:54,936: INFO: Driver quitting
+2025-01-13 08:06:58,553: INFO: Driver quitted
+2025-01-13 08:15:10,424: INFO: Navigating to https://mcheck.elixruat.awsdns.internal.das/
+2025-01-13 08:15:18,157: INFO: https://mcheck.elixruat.awsdns.internal.das/ opened
+2025-01-13 08:15:18,157: INFO: Navigating to https://mcheck.elixruat.awsdns.internal.das/
+2025-01-13 08:15:18,609: INFO: https://mcheck.elixruat.awsdns.internal.das/ opened
+2025-01-13 08:15:18,610: INFO: Searching for element by xpath ('xpath', "//img[@src='/elixir/logo.svg']")
+2025-01-13 08:15:19,117: INFO: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF78C226CF5+28821]
+	(No symbol) [0x00007FF78C193880]
+	(No symbol) [0x00007FF78C03578A]
+	(No symbol) [0x00007FF78C088F75]
+	(No symbol) [0x00007FF78C0894AC]
+	(No symbol) [0x00007FF78C0D2647]
+	(No symbol) [0x00007FF78C0AF33F]
+	(No symbol) [0x00007FF78C0CF412]
+	(No symbol) [0x00007FF78C0AF0A3]
+	(No symbol) [0x00007FF78C07A778]
+	(No symbol) [0x00007FF78C07B8E1]
+	GetHandleVerifier [0x00007FF78C55FCED+3408013]
+	GetHandleVerifier [0x00007FF78C57745F+3504127]
+	GetHandleVerifier [0x00007FF78C56B63D+3455453]
+	GetHandleVerifier [0x00007FF78C2EBDFB+835995]
+	(No symbol) [0x00007FF78C19EB9F]
+	(No symbol) [0x00007FF78C19A854]
+	(No symbol) [0x00007FF78C19A9ED]
+	(No symbol) [0x00007FF78C18A1D9]
+	BaseThreadInitThunk [0x00007FFC2184259D+29]
+	RtlUserThreadStart [0x00007FFC219AAF38+40]
+
+2025-01-13 08:15:19,118: INFO: Searching for element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki']
+2025-01-13 08:15:19,474: INFO: Element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki'] found
+2025-01-13 08:15:19,712: INFO: Clicking on MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki
+2025-01-13 08:15:19,898: INFO: MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki clicked
+2025-01-13 08:15:19,898: INFO: Searching for element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki']
+2025-01-13 08:15:19,908: INFO: Element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki'] found
+2025-01-13 08:15:19,919: INFO: None value changed
+2025-01-13 08:15:20,324: INFO: Searching for element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if']
+2025-01-13 08:15:20,338: INFO: Element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if'] found
+2025-01-13 08:15:20,400: INFO: Clicking on MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if
+2025-01-13 08:15:20,533: INFO: MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if clicked
+2025-01-13 08:15:20,533: INFO: Searching for element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if']
+2025-01-13 08:15:20,541: INFO: Element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if'] found
+2025-01-13 08:15:20,548: INFO: None value changed
+2025-01-13 08:15:25,929: INFO: Searching for element by xpath //button[@class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-1duqoz2']
+2025-01-13 08:15:25,947: INFO: Element by xpath //button[@class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-1duqoz2'] found
+2025-01-13 08:15:25,958: INFO: Clicking on MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-1duqoz2
+2025-01-13 08:15:26,065: INFO: MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-1duqoz2 clicked
+2025-01-13 08:15:31,078: INFO: Searching for element by xpath //h6[@class='MuiTypography-root MuiTypography-h6 css-1dpu6tj']
+2025-01-13 08:15:51,526: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h6[@class='MuiTypography-root MuiTypography-h6 css-1dpu6tj']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF78C226CF5+28821]
+	(No symbol) [0x00007FF78C193880]
+	(No symbol) [0x00007FF78C03578A]
+	(No symbol) [0x00007FF78C0891BE]
+	(No symbol) [0x00007FF78C0894AC]
+	(No symbol) [0x00007FF78C0D2647]
+	(No symbol) [0x00007FF78C0AF33F]
+	(No symbol) [0x00007FF78C0CF412]
+	(No symbol) [0x00007FF78C0AF0A3]
+	(No symbol) [0x00007FF78C07A778]
+	(No symbol) [0x00007FF78C07B8E1]
+	GetHandleVerifier [0x00007FF78C55FCED+3408013]
+	GetHandleVerifier [0x00007FF78C57745F+3504127]
+	GetHandleVerifier [0x00007FF78C56B63D+3455453]
+	GetHandleVerifier [0x00007FF78C2EBDFB+835995]
+	(No symbol) [0x00007FF78C19EB9F]
+	(No symbol) [0x00007FF78C19A854]
+	(No symbol) [0x00007FF78C19A9ED]
+	(No symbol) [0x00007FF78C18A1D9]
+	BaseThreadInitThunk [0x00007FFC2184259D+29]
+	RtlUserThreadStart [0x00007FFC219AAF38+40]
+
+2025-01-13 08:16:02,570: INFO: Searching for element by xpath //div[@title='Network Adequacy']
+2025-01-13 08:16:23,007: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@title='Network Adequacy']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF78C226CF5+28821]
+	(No symbol) [0x00007FF78C193880]
+	(No symbol) [0x00007FF78C03578A]
+	(No symbol) [0x00007FF78C0891BE]
+	(No symbol) [0x00007FF78C0894AC]
+	(No symbol) [0x00007FF78C0D2647]
+	(No symbol) [0x00007FF78C0AF33F]
+	(No symbol) [0x00007FF78C0CF412]
+	(No symbol) [0x00007FF78C0AF0A3]
+	(No symbol) [0x00007FF78C07A778]
+	(No symbol) [0x00007FF78C07B8E1]
+	GetHandleVerifier [0x00007FF78C55FCED+3408013]
+	GetHandleVerifier [0x00007FF78C57745F+3504127]
+	GetHandleVerifier [0x00007FF78C56B63D+3455453]
+	GetHandleVerifier [0x00007FF78C2EBDFB+835995]
+	(No symbol) [0x00007FF78C19EB9F]
+	(No symbol) [0x00007FF78C19A854]
+	(No symbol) [0x00007FF78C19A9ED]
+	(No symbol) [0x00007FF78C18A1D9]
+	BaseThreadInitThunk [0x00007FFC2184259D+29]
+	RtlUserThreadStart [0x00007FFC219AAF38+40]
+
+2025-01-13 08:16:24,716: INFO: Driver quitting
+2025-01-13 08:16:27,942: INFO: Driver quitted
+2025-01-13 08:29:07,814: INFO: Navigating to https://mcheck.elixruat.awsdns.internal.das/
+2025-01-13 08:29:11,872: INFO: https://mcheck.elixruat.awsdns.internal.das/ opened
+2025-01-13 08:29:11,873: INFO: Navigating to https://mcheck.elixruat.awsdns.internal.das/
+2025-01-13 08:29:12,248: INFO: https://mcheck.elixruat.awsdns.internal.das/ opened
+2025-01-13 08:29:12,249: INFO: Searching for element by xpath ('xpath', "//img[@src='/elixir/logo.svg']")
+2025-01-13 08:29:12,263: INFO: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75E486CF5+28821]
+	(No symbol) [0x00007FF75E3F3880]
+	(No symbol) [0x00007FF75E29578A]
+	(No symbol) [0x00007FF75E2E8F75]
+	(No symbol) [0x00007FF75E2E94AC]
+	(No symbol) [0x00007FF75E332647]
+	(No symbol) [0x00007FF75E30F33F]
+	(No symbol) [0x00007FF75E32F412]
+	(No symbol) [0x00007FF75E30F0A3]
+	(No symbol) [0x00007FF75E2DA778]
+	(No symbol) [0x00007FF75E2DB8E1]
+	GetHandleVerifier [0x00007FF75E7BFCED+3408013]
+	GetHandleVerifier [0x00007FF75E7D745F+3504127]
+	GetHandleVerifier [0x00007FF75E7CB63D+3455453]
+	GetHandleVerifier [0x00007FF75E54BDFB+835995]
+	(No symbol) [0x00007FF75E3FEB9F]
+	(No symbol) [0x00007FF75E3FA854]
+	(No symbol) [0x00007FF75E3FA9ED]
+	(No symbol) [0x00007FF75E3EA1D9]
+	BaseThreadInitThunk [0x00007FFC2184259D+29]
+	RtlUserThreadStart [0x00007FFC219AAF38+40]
+
+2025-01-13 08:29:12,263: INFO: Searching for element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki']
+2025-01-13 08:29:12,777: INFO: Element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki'] found
+2025-01-13 08:29:12,856: INFO: Clicking on MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki
+2025-01-13 08:29:13,027: INFO: MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki clicked
+2025-01-13 08:29:13,028: INFO: Searching for element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki']
+2025-01-13 08:29:13,037: INFO: Element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart css-114cjki'] found
+2025-01-13 08:29:13,066: INFO: None value changed
+2025-01-13 08:29:13,283: INFO: Searching for element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if']
+2025-01-13 08:29:13,415: INFO: Element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if'] found
+2025-01-13 08:29:13,491: INFO: Clicking on MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if
+2025-01-13 08:29:13,596: INFO: MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if clicked
+2025-01-13 08:29:13,596: INFO: Searching for element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if']
+2025-01-13 08:29:13,605: INFO: Element by xpath //input[@class='MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-1i259if'] found
+2025-01-13 08:29:13,615: INFO: None value changed
+2025-01-13 08:29:18,808: INFO: Searching for element by xpath //button[@class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-1duqoz2']
+2025-01-13 08:29:18,823: INFO: Element by xpath //button[@class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-1duqoz2'] found
+2025-01-13 08:29:18,841: INFO: Clicking on MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-1duqoz2
+2025-01-13 08:29:18,957: INFO: MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-1duqoz2 clicked
+2025-01-13 08:29:23,973: INFO: Searching for element by xpath //h6[@class='MuiTypography-root MuiTypography-h6 css-1dpu6tj']
+2025-01-13 08:29:44,044: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h6[@class='MuiTypography-root MuiTypography-h6 css-1dpu6tj']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75E486CF5+28821]
+	(No symbol) [0x00007FF75E3F3880]
+	(No symbol) [0x00007FF75E29578A]
+	(No symbol) [0x00007FF75E2E91BE]
+	(No symbol) [0x00007FF75E2E94AC]
+	(No symbol) [0x00007FF75E332647]
+	(No symbol) [0x00007FF75E30F33F]
+	(No symbol) [0x00007FF75E32F412]
+	(No symbol) [0x00007FF75E30F0A3]
+	(No symbol) [0x00007FF75E2DA778]
+	(No symbol) [0x00007FF75E2DB8E1]
+	GetHandleVerifier [0x00007FF75E7BFCED+3408013]
+	GetHandleVerifier [0x00007FF75E7D745F+3504127]
+	GetHandleVerifier [0x00007FF75E7CB63D+3455453]
+	GetHandleVerifier [0x00007FF75E54BDFB+835995]
+	(No symbol) [0x00007FF75E3FEB9F]
+	(No symbol) [0x00007FF75E3FA854]
+	(No symbol) [0x00007FF75E3FA9ED]
+	(No symbol) [0x00007FF75E3EA1D9]
+	BaseThreadInitThunk [0x00007FFC2184259D+29]
+	RtlUserThreadStart [0x00007FFC219AAF38+40]
+
+2025-01-13 08:29:54,759: INFO: Searching for element by xpath //div[@title='Network Adequacy']
+2025-01-13 08:30:14,860: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@title='Network Adequacy']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75E486CF5+28821]
+	(No symbol) [0x00007FF75E3F3880]
+	(No symbol) [0x00007FF75E29578A]
+	(No symbol) [0x00007FF75E2E91BE]
+	(No symbol) [0x00007FF75E2E94AC]
+	(No symbol) [0x00007FF75E332647]
+	(No symbol) [0x00007FF75E30F33F]
+	(No symbol) [0x00007FF75E32F412]
+	(No symbol) [0x00007FF75E30F0A3]
+	(No symbol) [0x00007FF75E2DA778]
+	(No symbol) [0x00007FF75E2DB8E1]
+	GetHandleVerifier [0x00007FF75E7BFCED+3408013]
+	GetHandleVerifier [0x00007FF75E7D745F+3504127]
+	GetHandleVerifier [0x00007FF75E7CB63D+3455453]
+	GetHandleVerifier [0x00007FF75E54BDFB+835995]
+	(No symbol) [0x00007FF75E3FEB9F]
+	(No symbol) [0x00007FF75E3FA854]
+	(No symbol) [0x00007FF75E3FA9ED]
+	(No symbol) [0x00007FF75E3EA1D9]
+	BaseThreadInitThunk [0x00007FFC2184259D+29]
+	RtlUserThreadStart [0x00007FFC219AAF38+40]
+
+2025-01-13 08:30:16,643: INFO: Driver quitting
+2025-01-13 08:30:25,183: INFO: Driver quitted
