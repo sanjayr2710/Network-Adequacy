@@ -1,5 +1,6 @@
 {
   "browser": "chrome",
+  "base_url": "https://mcheck.elixruat.awsdns.internal.das/auth/login",
   "headless_mode": false,
   "timeout": 10,
   "client": "NA",
