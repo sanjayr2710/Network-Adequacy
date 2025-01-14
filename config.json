@@ -1,10 +1,10 @@
 {
   "browser": "chrome",
-  "base_url": "https://mcheck.elixruat.awsdns.internal.das/auth/login",
+  "base_url": "https://10.126.253.122:84",
   "headless_mode": false,
   "timeout": 10,
   "client": "NA",
-  "NAURL": "https://mcheck.elixruat.awsdns.internal.das/auth/login",
-  "NA_USERNAME": "AL87719",
-  "NA_PASSWORD": "Molina@123456"
+  "NAURL": "https://mcheck.elixrprod.awsdns.internal.das/auth/login",
+  "NA_USERNAME": "AH90297",
+  "NA_PASSWORD": "Elevance216"
 }

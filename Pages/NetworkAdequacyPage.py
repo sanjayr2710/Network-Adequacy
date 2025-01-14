@@ -26,6 +26,7 @@ class NetworkAdequacyPage(PageBase):
 
     @allure.step("Expand Georgia State drop-down")
     def ExpandStateDropDownNATab(self):
+        time.sleep(5)
         WaitAndAssert.assert_and_wait(NetworkAdequacyLocators.StateGeorgia, 10)
         WaitAndAssert.assert_and_wait(NetworkAdequacyLocators.ExpandStateDropdown, 10)
         self.driver.find_element(*NetworkAdequacyLocators.ExpandStateDropdown).click()

@@ -4,7 +4,7 @@ class NetworkAdequacyLocators:
     NAMenuBtn = (By.XPATH, "//div[@title='Network Adequacy']")
     NATabHeading = (By.XPATH, "//p[@class='MuiTypography-root MuiTypography-body1 css-15atl9x']")
     StateGeorgia = (By.XPATH, "//p[text()='Georgia']")
-    ExpandStateDropdown = (By.XPATH, "//*[@id='root']/div[2]/main/div/div[3]/div/div[1]/div[2]/div/div/div/div[1]/button")
+    ExpandStateDropdown = (By.XPATH, "//button[@class='MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall MuiDataGrid-detailPanelToggleCell css-lw2d7w']")
     ShrinkStateDropDown = (By.XPATH, "//button[@aria-label='Collapse']//*[name()='svg']")
     Walker_county = (By.XPATH, "//p[text()='WALKER']")
     Charlton_county = (By.XPATH, "//p[text()='CHARLTON']")
